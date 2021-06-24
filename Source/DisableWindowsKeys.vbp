@@ -1,0 +1,35 @@
+Type=Exe
+Form=frmMain.frm
+Module=modDisableKeys; modDisableKeys.bas
+IconForm="frmMain"
+Startup="frmMain"
+HelpFile=""
+Title="WinKeyNoMore"
+ExeName32="WinKeyNoMore.exe"
+Command32=""
+Name="WinKeyNoMore"
+HelpContextID="0"
+CompatibleMode="0"
+AutoIncrementVer=0
+ServerSupportFiles=0
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=-1
+CodeViewDebugInfo=0
+NoAliasing=-1
+BoundsCheck=-1
+OverflowCheck=-1
+FlPointCheck=-1
+FDIVCheck=-1
+UnroundedFP=-1
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1
+
+
